@@ -1,2 +1,2 @@
 # numpy_figures
-figures I make and construct using numpy and matplot lib
+A place to keep the figures I make using NumPy and Matplotlib, as well as a repo for general NumPy/Matplotlib tinkering
